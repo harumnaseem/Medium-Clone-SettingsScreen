@@ -17,9 +17,6 @@
           </router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" :to="{name : 'Login'}">Sign In</router-link>
-        </li>
-        <li class="nav-item">
           <router-link class="nav-link" :to="{name : 'Register'}">Register</router-link>
         </li>
       </ul>
